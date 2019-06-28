@@ -1,0 +1,22 @@
+             name              |             name              |             address             |             address             |     phone      |     phone      
+-------------------------------+-------------------------------+---------------------------------+---------------------------------+----------------+----------------
+ Bette's Oceajview Diner       | Bett's Ocezsniew Diner        | 1807 4th St. Berkeley           | 1807 4th Street Berkeley        | 510-644-3230   | (510) 644-3230
+ Cafe Gratirude                | Cafe Gratutud                 | 1730 Shattuck Street Berkeley   | 1730 Shattuck St Berkeley       | (415) 824-4652 | (415) 824-4652
+ Caffe Meeiteranjeum           | Caffe Medterrajeum            | 2475 Telegraph Avenue Berkeley  | 2475 Telegraph Avenue Berkeley  | 510-549-1128   | (510) 549-1128
+ Chez Panisse                  | Chrzs Panisse                 | 1517 Shattuck Ave Berkeley      | 1517 Shattuck Avenue Berkeley   | (510) 548-5525 | (510) 548-5525
+ Chwesr Board                  | Cheede Bord                   | 1512 Shattuck Ave Berkeley      | 1512 Shattuck Avenue Berkeley   | (510) 549-3183 | (510) 549-3183
+ Great Chna Resaurfant ()      | Great China Restaurant ()     | 2115 Kittredge St. Berkeley     | 2115 Kittredge Street Berkeley  | (510) 843-7996 | (510) 843-7996
+ Gregoire                      | Gregoir                       | 2109 Cedar St. Berkeley         | 2109 Cedar Street Berkeley      | (510) 883.1893 | (510) 883-1893
+ Jupikter                      | Jupiter                       | 2181 Shattuck Ave Berkeley      | 2181 Shattuck Avenue Berkeley   | 510-843-8277   | (510) 843-8277
+ La Note Restaurant Provenjcal | L Note Restaufantr Proverncal | 2377 Shattuck Ave Berkeley      | 2377 Shattuck Avenue Berkeley   | (510) 843-1535 | (510) 843-1535
+ Pyramid Brewer & Alehouse     | Pyrmid Brewedry & Alehouse    | 901 Gilman St. Berkeley         | 901 Gilman Street Berkeley      | (510) 527-9090 | (510) 527-9090
+ Saul's Restaurqntr & Deli     | Saqul's Restaurant & Dei      | 1475 Shattuck Ave Berkeley      | 1475 Shattuck Avenue Berkeley   | 510-848-3354   | (510) 848-3354
+ Se Salt                       | Sea Sar                       | 2512 San Pablo Ave Berkeley     | 2512 San Pablo Avenue Berkeley  | 510-883-1720   | (510) 883-1720
+ Skates On the Bay             | Skmates Oh the Bay            | 100 Seawall Dr Berkeley         | 100 Seawall Drive Berkeley      | 510-549-1900   | (510) 549-1900
+ Spenger's Fresh Fish Grotto   | Spengwr's Fresh Fish Grottl   | 1919 Fourth Street Berkeley     | 1919 Fourth Street Berkeley     | (510) 845.7771 | (510) 845-7771
+ T-Rex Barbewu                 | T-Rex Basrbeqe                | 1300 10th St Berkeley           | 1300 10th St Berkeley           | 510 527-0099   | (510) 527-0099
+ Top Dog                       | Top Dog                       | 2534 Durant Ave Berkeley        | 2534 Durant Avenue Berkeley     | (510)843-7250  | (510) 843-7250
+ Triple Rock Brewery-Ale House | Triple Rocj Brewery-Ale Hose  | 1920 Shattuck Ave Berkeley      | 1920 Shattuck Avenue Berkeley   | 510-843-2739   | (510) 843-2739
+ Udupi Palacer                 | Udeupi Palace                 | 1901 University Avenue Berkeley | 1901 University Avenue Berkeley | (510) 843-6600 | (510) 843-6600
+(18 rows)
+

@@ -1,0 +1,86 @@
+             address             |             address             |                  name                  |     phone      
+---------------------------------+---------------------------------+----------------------------------------+----------------
+ 1 Broadway Oakland              | 1 Broadway Oakland              | Missx Pearl'w Jam House                | (510) 444-7171
+ 1 Broadway Oakland              | 126 Broadway Oakland            | Missx Pearl'w Jam House                | (510) 663-2350
+ 1 Broadway Oakland              | 2 Broadway Oakland              | Missx Pearl'w Jam House                | (510) 444-3456
+ 1 Broadway Oakland              | 2221 Broadway Oakland           | Missx Pearl'w Jam House                | (510) 451-4677
+ 1 Broadway Oakland              | 2251 Broadway Oakland           | Missx Pearl'w Jam House                | (510) 286-9866
+ 1 Broadway Oakland              | 301 Broadway Oakland            | Missx Pearl'w Jam House                | (510) 922-1615
+ 100 Seawall Dr Berkeley         | 100 Seawall Drive Berkeley      | Skates On the Bay                      | (510) 549-1900
+ 126 Broadway Oakland            | 1 Broadway Oakland              | Everett & Jojes Barbeque               | (510) 444-7171
+ 126 Broadway Oakland            | 126 Broadway Oakland            | Everett & Jojes Barbeque               | (510) 663-2350
+ 126 Broadway Oakland            | 2 Broadway Oakland              | Everett & Jojes Barbeque               | (510) 444-3456
+ 126 Broadway Oakland            | 2221 Broadway Oakland           | Everett & Jojes Barbeque               | (510) 451-4677
+ 126 Broadway Oakland            | 2251 Broadway Oakland           | Everett & Jojes Barbeque               | (510) 286-9866
+ 126 Broadway Oakland            | 301 Broadway Oakland            | Everett & Jojes Barbeque               | (510) 922-1615
+ 1300 10th St Berkeley           | 1300 10th St Berkeley           | T-Rex Barbewu                          | (510) 527-0099
+ 1328 Sixth Street Berkeley      | 1328 Sixth Street Berkeley      | Picantd                                | (510) 525-3121
+ 1475 Shattuck Ave Berkeley      | 1475 Shattuck Avenue Berkeley   | Saul's Restaurqntr & Deli              | (510) 848-3354
+ 1475 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Saul's Restaurqntr & Deli              | (510) 704-8003
+ 1512 Shattuck Ave Berkeley      | 1512 Shattuck Avenue Berkeley   | Chwesr Board                           | (510) 549-3183
+ 1512 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Chwesr Board                           | (510) 704-8003
+ 1517 Shattuck Ave Berkeley      | 1517 Shattuck Avenue Berkeley   | Chez Panisse                           | (510) 548-5525
+ 1517 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Chez Panisse                           | (510) 704-8003
+ 1520 Lakeside Dr Oakland        | 1520 Lakeside Drive Oakland     | Lake Chalet Sefood Bar & Grill         | (510) 208-5253
+ 1603 San Pablo Avenue Berkeley  | 1603 San Pablo Avenue Berkeley  | Cafe Fanny                             | (510) 524-5447
+ 1628 Webster Street Oakland     | 1628 Webster Street Oakland     | Spiuce Monbkeyt Cafe                   | (510) 268-0170
+ 1628 Webster Street Oakland     | 48 Webster Street Oakland       | Spiuce Monbkeyt Cafe                   | (510) 444-1233
+ 1788 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Corso                                  | (510) 704-8003
+ 1799 University Ave Berkeley    | 1799 University Avenue Berkeley | Caffe Vednjfzia                        | (510) 849-4681
+ 1900 Telegraph Avenue Oakland   | 1900 Telegraph Avenue Oakland   | Fk                                     | (510) 286-0100
+ 1900 Telegraph Avenue Oakland   | 5008 Telegraph Avenue Oakland   | Fk                                     | (510) 652-4888
+ 1901 University Avenue Berkeley | 1799 University Avenue Berkeley | Udupi Palacer                          | (510) 849-4681
+ 1901 University Avenue Berkeley | 1901 University Avenue Berkeley | Udupi Palacer                          | (510) 843-6600
+ 1919 Fourth Street Berkeley     | 1919 Fourth Street Berkeley     | Spenger's Fresh Fish Grotto            | (510) 845-7771
+ 1920 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Triple Rock Brewery-Ale House          | (510) 704-8003
+ 1920 Shattuck Ave Berkeley      | 1920 Shattuck Avenue Berkeley   | Triple Rock Brewery-Ale House          | (510) 843-2739
+ 1951 Embarcadero Oakland        | 1951 Embarcadero Oakland        | L J Qujinn's Lighthouse Pub            | (510) 536-2050
+ 1981 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Zataf Restaurant & Caterikng           | (510) 704-8003
+ 2 Broadway Oakland              | 1 Broadway Oakland              | Scott's Restaurants Jack London Square | (510) 444-7171
+ 2 Broadway Oakland              | 126 Broadway Oakland            | Scott's Restaurants Jack London Square | (510) 663-2350
+ 2 Broadway Oakland              | 2 Broadway Oakland              | Scott's Restaurants Jack London Square | (510) 444-3456
+ 2 Broadway Oakland              | 2221 Broadway Oakland           | Scott's Restaurants Jack London Square | (510) 451-4677
+ 2 Broadway Oakland              | 2251 Broadway Oakland           | Scott's Restaurants Jack London Square | (510) 286-9866
+ 2 Broadway Oakland              | 301 Broadway Oakland            | Scott's Restaurants Jack London Square | (510) 922-1615
+ 2181 Shattuck Ave Berkeley      | 1788 Shattuck Ave Berkeley      | Jupikter                               | (510) 704-8003
+ 2181 Shattuck Ave Berkeley      | 2181 Shattuck Avenue Berkeley   | Jupikter                               | (510) 843-8277
+ 2200 Oxford Street Berkeley     | 2200 Oxford Street Berkeley     | Gaqwther                               | (510) 809-0400
+ 2251 Broadway Oakland           | 1 Broadway Oakland              | Ozumo Japaesedd Restaurant             | (510) 444-7171
+ 2251 Broadway Oakland           | 126 Broadway Oakland            | Ozumo Japaesedd Restaurant             | (510) 663-2350
+ 2251 Broadway Oakland           | 2 Broadway Oakland              | Ozumo Japaesedd Restaurant             | (510) 444-3456
+ 2251 Broadway Oakland           | 2221 Broadway Oakland           | Ozumo Japaesedd Restaurant             | (510) 451-4677
+ 2251 Broadway Oakland           | 2251 Broadway Oakland           | Ozumo Japaesedd Restaurant             | (510) 286-9866
+ 2251 Broadway Oakland           | 301 Broadway Oakland            | Ozumo Japaesedd Restaurant             | (510) 922-1615
+ 2295 Broadway Oakland           | 126 Broadway Oakland            | Pkcanm Restautant                      | (510) 663-2350
+ 2295 Broadway Oakland           | 2 Broadway Oakland              | Pkcanm Restautant                      | (510) 444-3456
+ 2295 Broadway Oakland           | 2221 Broadway Oakland           | Pkcanm Restautant                      | (510) 451-4677
+ 2295 Broadway Oakland           | 2251 Broadway Oakland           | Pkcanm Restautant                      | (510) 286-9866
+ 2327 Shattuck Avenue Berkeley   | 1517 Shattuck Avenue Berkeley   | Venus Restaurqnh                       | (510) 548-5525
+ 2327 Shattuck Avenue Berkeley   | 1920 Shattuck Avenue Berkeley   | Venus Restaurqnh                       | (510) 843-2739
+ 2327 Shattuck Avenue Berkeley   | 2181 Shattuck Avenue Berkeley   | Venus Restaurqnh                       | (510) 843-8277
+ 2327 Shattuck Avenue Berkeley   | 2327 Shattuck Avenue Berkeley   | Venus Restaurqnh                       | (510) 540-5950
+ 2327 Shattuck Avenue Berkeley   | 2377 Shattuck Avenue Berkeley   | Venus Restaurqnh                       | (510) 843-1535
+ 2377 Shattuck Ave Berkeley      | 2377 Shattuck Avenue Berkeley   | La Note Restaurant Provenjcal          | (510) 843-1535
+ 2475 Telegraph Avenue Berkeley  | 2475 Telegraph Avenue Berkeley  | Caffe Meeiteranjeum                    | (510) 549-1128
+ 2512 San Pablo Ave Berkeley     | 2512 San Pablo Avenue Berkeley  | Se Salt                                | (510) 883-1720
+ 2534 Durant Ave Berkeley        | 2534 Durant Avenue Berkeley     | Top Dog                                | (510) 843-7250
+ 2534 Mandela Parkway Oakland    | 2534 Mandela Parkway Oakland    | brown suygar kitchern                  | (510) 839-7685
+ 2700 Bancroft Way Berkeley      | 2700 Bancroft Way Berkeley      | Adagia Resaurantr                      | (510) 647-2300
+ 2922 Domingo Avenue Berkeley    | 2922 Domingo Avenue Berkeley    | Rick & Ann's Restauant                 | (510) 649-8538
+ 301 Broadway Oakland            | 1 Broadway Oakland              | Soluley Vean                           | (510) 444-7171
+ 301 Broadway Oakland            | 126 Broadway Oakland            | Soluley Vean                           | (510) 663-2350
+ 301 Broadway Oakland            | 2 Broadway Oakland              | Soluley Vean                           | (510) 444-3456
+ 301 Broadway Oakland            | 2221 Broadway Oakland           | Soluley Vean                           | (510) 451-4677
+ 301 Broadway Oakland            | 2251 Broadway Oakland           | Soluley Vean                           | (510) 286-9866
+ 301 Broadway Oakland            | 301 Broadway Oakland            | Soluley Vean                           | (510) 922-1615
+ 4226 Piedmont Avenue Oakland    | 4226 Piedmont Ave Oakland       | Fentons Creasmery & Rstaurst           | (510) 658-7000
+ 444 Embarcadero West Oakland    | 444 Embarcadero West Oakland    | Hpuse of Chicken & Waffles             | (510) 836-4446
+ 499 9th Street Oakland          | 468 8th Street Oakland          | B Restaurant                           | (510) 444-1944
+ 500 12th St # 35 Oakland        | 500 12th St # 35 Oakland        | Max'w Restuirabts                      | (510) 451-6297
+ 5008 Telegraph Avenue Oakland   | 1900 Telegraph Avenue Oakland   | Pizzaiolo                              | (510) 286-0100
+ 5008 Telegraph Avenue Oakland   | 5008 Telegraph Avenue Oakland   | Pizzaiolo                              | (510) 652-4888
+ 510 Embarcadero West Oakland    | 444 Embarcadero West Oakland    | Yoshi's Jszz Club & Japanese           | (510) 836-4446
+ 6317 College Avenue Oakland     | 6317 College Avenue Oakland     | The Wood Tavern Rsdtaurant             | (510) 654-6607
+ 948 Clay Street Oakland         | 948 Clay Street Oakland         | Brfeads of Imdia                       | (510) 834-7684
+(82 rows)
+

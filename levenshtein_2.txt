@@ -1,0 +1,20 @@
+     phone      |     phone      |             name              |             address             
+----------------+----------------+-------------------------------+---------------------------------
+ (415) 824-4652 | (415) 824-4652 | Cafe Gratutud                 | 1730 Shattuck St Berkeley
+ (510) 521.9090 | (510) 527-9090 | Otaedz Mexican Restaurant     | 901 Gilman Street Berkeley
+ (510) 527-9090 | (510) 527-0099 | Pyrmid Brewedry & Alehouse    | 1300 10th St Berkeley
+ (510) 527-9090 | (510) 527-9090 | Pyrmid Brewedry & Alehouse    | 901 Gilman Street Berkeley
+ (510) 548-5525 | (510) 548-5525 | Chrzs Panisse                 | 1517 Shattuck Avenue Berkeley
+ (510) 549-3183 | (510) 549-3183 | Cheede Bord                   | 1512 Shattuck Avenue Berkeley
+ (510) 549.0964 | (510) 549-0964 | Cancun Sabor Mexicano         | 2134 Allston Way Berkeley
+ (510) 836-2739 | (510) 843-2739 | Pacific Coast Brewing Co      | 1920 Shattuck Avenue Berkeley
+ (510) 843-1535 | (510) 843-1535 | L Note Restaufantr Proverncal | 2377 Shattuck Avenue Berkeley
+ (510) 843-6600 | (510) 843-6600 | Udeupi Palace                 | 1901 University Avenue Berkeley
+ (510) 843-7996 | (510) 843-7996 | Great China Restaurant ()     | 2115 Kittredge Street Berkeley
+ (510) 845.7771 | (510) 845-7771 | Spengwr's Fresh Fish Grottl   | 1919 Fourth Street Berkeley
+ (510) 849-4681 | (510) 849-4681 | Cafe Veneiaq                  | 1799 University Avenue Berkeley
+ (510) 883.1893 | (510) 883-1893 | Gregoir                       | 2109 Cedar Street Berkeley
+ (510)843-7250  | (510) 843-7250 | Top Dog                       | 2534 Durant Avenue Berkeley
+ 510 527-0099   | (510) 527-0099 | T-Rex Basrbeqe                | 1300 10th St Berkeley
+(16 rows)
+
